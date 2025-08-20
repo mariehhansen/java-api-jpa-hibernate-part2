@@ -1,4 +1,4 @@
-# Java API with JPA and Hibernate
+# Java API with JPA and Hibernate - Part 2
 
 ## Learning Objectives
 - Implement foreign keys and other relationships in tables
